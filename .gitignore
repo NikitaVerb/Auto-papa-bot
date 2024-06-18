@@ -1,0 +1,5 @@
+/.venv/
+cars.db
+creds.json
+.env
+/.idea/
